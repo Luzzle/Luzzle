@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**Luzzle/Luzzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self taught developer who loves Computer Science and currently in my final year of High School!
 
-Here are some ideas to get you started:
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Luzzle&show_icons=true&theme=onedark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always willing to learn and improve and happy to take on any project!
+
+![My Best Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luzzle&theme=onedark)
+
+I program primarily in C++ but can carry my weight in other languages such as C#, Web Dev and Python!
+
+I'm currently helping out the Pyro App team as a Backend Developer, while also working on my Software Major
