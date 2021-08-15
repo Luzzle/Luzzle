@@ -10,6 +10,4 @@ I'm always willing to learn and improve and happy to take on any project!
 
 I program primarily in C++ but can carry my weight in other languages such as C#, Web Dev and Python!
 
-I'm currently helping out the Pyro App team as a Backend Developer, while also working on my Software Major
-
 PFP Credit goes to u/Igotnowhoops - https://www.reddit.com/r/Portal/comments/lei0e4/here_is_a_plump_wheatley_i_drew/
