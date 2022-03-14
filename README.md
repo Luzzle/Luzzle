@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm a self taught developer who loves Computer Science and currently in my final year of High School!
+Self taught developer, studying a Bachelor of Computer Science (Major in Cyber Security) at UOW
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Luzzle&show_icons=true&theme=onedark)
 
