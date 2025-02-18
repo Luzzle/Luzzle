@@ -1,7 +1,9 @@
 # Welcome!
 
 HMC Engineer at Macquarie Cloud Services.
+
 Bachelor of Computer Science maj. Cyber Security
+
 eJPT Certified
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Luzzle&show_icons=true&theme=onedark)
